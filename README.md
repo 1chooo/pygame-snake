@@ -10,6 +10,8 @@ Build the enviroment through anaconda (Actually, I use miniconda in my mac, but 
 
 my Conda --version: conda 4.12.0
 
+![plot](https://miro.medium.com/max/1400/1*1uDdGsxFlihzmPfLP6Mo4A.png)
+
 * ### First steps: 
 
     Build a virtual enviroment which called pygameand install python 3.6.13 version. Then activate it...
@@ -31,6 +33,7 @@ my Conda --version: conda 4.12.0
     ```vim
     $ python3 -m pygame.examples.aliens
     ```
+    ![plot](https://miro.medium.com/max/1400/1*xRYWm3kCCimYkrsHfh88KA.png)
 
 * ### Well done.
 
@@ -40,3 +43,5 @@ my Conda --version: conda 4.12.0
 ```vim
 $ python main.py
 ```
+
+![plot](https://miro.medium.com/max/1400/1*okV2P3qTibFMO1NWbaRBJQ.png)
